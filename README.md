@@ -1,2 +1,2 @@
 # Seleccion-de-transporte-automatizado
-- resultados cambiendo  el branches en master para más información
+- resultados cambiando el branches en master para más información
